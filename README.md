@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data sience
 - 🌱 I’m currently learning at MIT
 - 💞️ I’m looking to collaborate on IT projects
-- 📫 How to reach me: email 
+- 📫 Reach me on my email: ermishina.m7@gmail.com
 - 😄 Pronouns: Russian
 - ⚡ Fun fact: Almost 30 and still student 
 
