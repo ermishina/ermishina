@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here, you can find projects that
 reflect my knowledge, interests, and passion for creating  
 innovative solutions in energy efficiency and data analytics.
 
-## 🧑‍💻 About Me
+## 👩🏼‍💻 About Me
 
 - 🎓 Education:
   - Master's degree in Renewable Energy (with honors) from  
